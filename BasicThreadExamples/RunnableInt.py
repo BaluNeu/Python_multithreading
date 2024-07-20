@@ -18,6 +18,7 @@ def main():
     thread1 = Method1()
     print("Second method")
     thread2 = Method2()
+    print("Third method")
 
     thread1.start()
     thread2.start()
