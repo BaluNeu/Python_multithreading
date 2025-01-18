@@ -12,8 +12,6 @@ def method2():
 def main():
     print(" First method execution")
     method1()
-    print(" Second method execution")
-    method2()
 
 if __name__ == "__main__":
     main()
